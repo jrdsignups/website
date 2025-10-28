@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chronicles of the Fae</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Chronicles of the Fae</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="stories.html">Stories</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Welcome to the Realms Between</h2>
+    <p>Explore the world of Neris, Halea, and the village of Emme — where the threads of fae magic and mortal stories intertwine.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Chronicles of the Fae</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About - Chronicles of the Fae</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About the Author</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="stories.html">Stories</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <p>Hi, I’m JB — a fantasy writer exploring fae lore, lost realms, and the fragile edges between myth and memory.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Chronicles of the Fae</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stories - Chronicles of the Fae</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Stories</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="stories.html">Stories</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>The Inbetweenlands</h2>
+    <p>A post-collapse world where fae and human fates collide — and survival is a matter of trust and light.</p>
+
+    <h2>The Tying</h2>
+    <p>In the village of Emme, two clans must bind themselves through ancient ritual — or face ruin.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Chronicles of the Fae</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact - Chronicles of the Fae</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Contact</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="stories.html">Stories</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <p>Want to reach out? Send a message to <a href="mailto:hello@chroniclesofthefae.com">hello@chroniclesofthefae.com</a>.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Chronicles of the Fae</p>
+  </footer>
+</body>
+</html>
